@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ical-Filter", "src\Ical-Filter.csproj", "{DEF6934C-3630-4C7E-8949-646F6357CEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF6934C-3630-4C7E-8949-646F6357CEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF6934C-3630-4C7E-8949-646F6357CEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF6934C-3630-4C7E-8949-646F6357CEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF6934C-3630-4C7E-8949-646F6357CEED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C353571-405A-4FD2-A5ED-F94992E1B568}
+	EndGlobalSection
+EndGlobal

@@ -1,5 +1,5 @@
 # Ical-Filter
-Ical-Filter is a very small automated programm that pulls a ical file from web, filters events and uploads it via ftp to another server.
+Ical-Filter is a very small automated programm that pulls an ical file from web, filters events and uploads it via ftp to another server.
 
 Config file layout:
 DownloadURL = URL to the Ical File.

@@ -11,6 +11,6 @@ filterEvents = Every event "SUMMARY"name which apears to be in this List will be
 
 Docker Commands:
 
-docker image build ./ -t ical-filter
+docker image build ./ -t icalfilter
 
 docker run icalfilter -v ./yourconfigpath/:/config/

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -37,6 +37,8 @@ namespace IcalFilter
                     } else { if (once) return 2; }
                 } else { if (once) return 1; }
                 
+                Console.WriteLine("----------------------------------------");
+                Console.WriteLine("Ical filter: Idling");
                 System.Threading.Thread.Sleep(idleTime * 60 * 1000);
                 //IdleAnimation();
             }
